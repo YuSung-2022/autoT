@@ -1,0 +1,2 @@
+src = "G:\Extension\Genshin Impact\半自動切換座標\整理"
+des = "G:\Extension\Genshin Impact\Acrepi-v1.0.5\teleports"
